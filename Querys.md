@@ -1,5 +1,3 @@
-Vou criar queries SQL que abordam os tópicos solicitados e respondem às perguntas de exemplo. Todos os códigos estarão formatados e comentados:
-
 ---
 
 ### **1. Recuperações simples com SELECT**
@@ -178,4 +176,3 @@ WHERE
 - Junções entre 3+ tabelas
 - Combinação de múltiplas cláusulas
 
-Adapte os valores conforme sua base de dados! 😊
